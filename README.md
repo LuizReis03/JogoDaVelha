@@ -1,5 +1,7 @@
 # JogoDaVelha
-Projeto desenvolvido na disciplina de programação 3, com intuito de abordar front-end, back-end, banco de dados e comunicação de clientes em tempo real
+Projeto desenvolvido na disciplina de programação 3, com intuito de abordar front-end, back-end, banco de dados e comunicação de clientes em tempo real.
+
+Layout do projeto...
 
 ![WhatsApp Image 2023-03-07 at 21 17 44](https://user-images.githubusercontent.com/82242839/223586512-8f26f7eb-41c6-4ed8-9844-32ce08efc753.jpeg)
 ![WhatsApp Image 2023-03-07 at 21 17 47](https://user-images.githubusercontent.com/82242839/223586518-f4005376-461c-4215-b615-15a0fc9c3e7c.jpeg)
